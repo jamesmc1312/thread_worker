@@ -1,2 +1,4 @@
-# thread_worker
-Multi thread worker for large tasks with workers per thread
+# Thread Worker - James McCabe - 16/05/2022
+
+Open source multi-thread worker for GoLang, supports a maxium workers per thread.
+This project relys on github.com/sheerun/queue to run
