@@ -8,4 +8,4 @@ go get github.com/sheerun/queue
 Currently seutp to read from an input file and queue each line to have a task ran on it.
 You can modify this to read from Stdin and to run any task you would like.
 
-You can modify the task at the '// Task' comment.
+You can modify the task at the '// Run Task' comment.
